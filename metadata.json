@@ -1,0 +1,7 @@
+{
+  "name": "Bestie Valentine Photo Booth",
+  "description": "A cute Valentine's themed app for besties with a message, photo booth, and confetti.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
